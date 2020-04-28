@@ -1,6 +1,6 @@
 # fancygif
 
-Tiny shell function to turn a video file into a GIF. Not particularly space or time efficient, but the GIFs look alright.
+This is a tiny shell function wrapping ffmpeg and gifsicle. It turns a video file into a GIF. It's not particularly fast and the gifs aren't very small, but they look pretty nice, don't have a bunch of artifacts, and run at a high frame rate.
 
 ## Dependencies
 
