@@ -1,6 +1,6 @@
 # fancygif
 
-Tiny shell function to turn a video file into a GIF.
+Tiny shell function to turn a video file into a GIF. Not particularly space or time efficient, but the GIFs look alright.
 
 ## Dependencies
 
